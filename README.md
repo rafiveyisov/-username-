@@ -18,18 +18,17 @@
 
 ### 🚀 Featured Projects
 
-#### 🧠 [Advanced RAG Architecture for National AI Strategy](link_repo)
+#### 🧠 [Advanced RAG Architecture for National AI Strategy]([link_repo](https://github.com/rafiveyisov/MyLLM))
 * **Description:** An end-to-end RAG pipeline designed for complex legal and policy documents.
 * **Stack:** LangChain, Vector Databases, Cross-Encoder Reranking, FastAPI.
 * **Why it matters:** Solves the hallucination problem in legal AI by achieving **90%+ factual accuracy** through a two-stage retrieval process.
-* **[Live Demo](link_demo)**
 
-#### ✍️ [Handwritten Character Recognition (EMNIST)](link_repo)
+#### ✍️ [Handwritten Character Recognition (EMNIST)]([link_repo](https://github.com/rafiveyisov/MyDL/tree/master/CNN/project_emnist))
 * **Description:** A high-performance OCR system for character classification.
 * **Stack:** PyTorch, CNN, CUDA 12.4.
 * **Why it matters:** Optimized a deep CNN model on **700k+ samples** to reach **95%+ accuracy**, demonstrating mastery in large-scale model training and hardware optimization.
 
-#### 📊 [Sentiment Analysis: RNN vs. LSTM Comparison](link_repo)
+#### 📊 [Sentiment Analysis: RNN vs. LSTM Comparison]([link_repo](https://github.com/rafiveyisov/MyDL/tree/master/RNN/project_sentiment-analyzer))
 * **Description:** A benchmark application comparing sequence models for NLP tasks.
 * **Stack:** RNN, LSTM, IMDB Dataset, Streamlit.
 * **Why it matters:** Provides a visual and technical analysis of how LSTMs solve the vanishing gradient problem in long-range dependencies.
@@ -44,5 +43,5 @@
 
 ### 📫 Connect with Me
 * **Email:** rfiveyisov@gmail.com
-* **LinkedIn:** (www.linkedin.com/in/rafi-veyisov)
-* **Portfolio:** ([https://your-portfolio.streamlit.app](https://rafi-veyis-portfolio-ui.streamlit.app/))
+* **LinkedIn:** www.linkedin.com/in/rafi-veyisov
+* **Portfolio:** https://rafi-veyis-portfolio-ui.streamlit.app/
