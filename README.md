@@ -44,5 +44,5 @@
 
 ### 📫 Connect with Me
 * **Email:** rfiveyisov@gmail.com
-* **LinkedIn:** [linkedin.com/in/profil-linkin](www.linkedin.com/in/rafi-veyisov)
-* **Portfolio:** [Sənin Streamlit Saytın]([https://your-portfolio.streamlit.app](https://rafi-veyis-portfolio-ui.streamlit.app/))
+* **LinkedIn:** (www.linkedin.com/in/rafi-veyisov)
+* **Portfolio:** ([https://your-portfolio.streamlit.app](https://rafi-veyis-portfolio-ui.streamlit.app/))
